@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 #define STB_IMAGE_IMPLEMENTATION // This define is a must...
-#include "stb_image.h"
+#include "stb/stb_image.h"
 
 using namespace std;
 
