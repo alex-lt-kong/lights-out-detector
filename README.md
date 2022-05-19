@@ -3,4 +3,4 @@
 ## Compilation
 * Install dependency: `apt install libstb-dev`
 * Find out the link flag: `pkg-config --list-all | grep stb`
-* Compile: `g++ lod.cpp -o lod -lstb`
+* Compile: just `make` it!
