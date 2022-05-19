@@ -1,3 +1,6 @@
+### custom rules ###
+*.out
+
 ### Ignore VS Code files ###
 .vscode/*
 !.vscode/settings.json
